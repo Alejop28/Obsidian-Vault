@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "39074bdb60e263b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a54397d6109c3b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4b12569563bf98a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprende GIT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cffa67d31d8af1df",
+    "type": "split",
+    "children": [
+      {
+        "id": "122a8f6c2fcd9b1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4de9317f41ae10f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8774252c2b252a78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdebd644cd3517df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd0d99bf66b05865",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffb6caf965835258",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06bec82f0bbbf745",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aprende GIT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c17de3a18a03c02",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aprende GIT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1fe44c2f9b8da99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93bad6bfb53a5e3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aprende GIT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b4b12569563bf98a",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Aprende GIT.md",
+    "Pasted image 20240819215055.png",
+    "Pasted image 20240819213501.png",
+    "Pasted image 20240819202606.png",
+    "Pasted image 20240819202131.png",
+    "Pasted image 20240818214656.png",
+    "Pasted image 20240818213014.png",
+    "Pasted image 20240818211208.png",
+    "Pasted image 20240818210658.png",
+    "Pasted image 20240818210627.png",
+    "Pasted image 20240818205908.png"
+  ]
+}
