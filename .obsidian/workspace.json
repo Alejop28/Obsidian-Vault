@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso GIT/Aprende GIT.md",
+                "file": "Desarrollo de software/Clase programación 22.08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f92ca5c87938311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desarrollo de software/Clase programación 22.08.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso GIT/Aprende GIT.md",
+                "file": "Desarrollo de software/Clase programación 22.08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso GIT/Aprende GIT.md",
+                "file": "Desarrollo de software/Clase programación 22.08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso GIT/Aprende GIT.md"
+                "file": "Desarrollo de software/Clase programación 22.08.md"
               }
             }
           }
@@ -146,15 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "631c3385836286a9",
+  "active": "7f92ca5c87938311",
   "lastOpenFiles": [
-    "Desarrollo de software/Clase programación 22.08.md",
     "Desarrollo de software/Clase programación 20,8.md",
+    "Desarrollo de software/Clase programación 22.08.md",
+    "Desarrollo de software/Clase programación 27.8.md",
     "Curso GIT/Aprende GIT.md",
-    "Desarrollo de bases de datos/Clase base de datos 21,8.md",
-    "Desarrollo de bases de datos",
-    "Desarrollo de software",
-    "Aprende GIT.md",
     "Untitled.canvas",
     "Pasted image 20240819215055.png",
     "Pasted image 20240819213501.png",
@@ -166,6 +176,10 @@
     "Pasted image 20240818210658.png",
     "Pasted image 20240818210627.png",
     "Pasted image 20240818205908.png",
+    "Aprende GIT.md",
+    "Desarrollo de bases de datos/Clase base de datos 21,8.md",
+    "Desarrollo de bases de datos",
+    "Desarrollo de software",
     "Curso GIT/Untitled.canvas",
     "Curso GIT",
     "Test 2.md",
